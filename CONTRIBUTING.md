@@ -54,8 +54,9 @@ Before you submit an issue, please search the issue tracker, maybe an issue for 
 
 We want to fix all the issues as soon as possible, but before fixing a bug we need to reproduce and confirm it. Having a reproducible scenario gives us wealth of important information without going back & forth to you with additional questions like:
 
+- version of Angular CLI used
+- `.angular-cli.json` or `angular.json` configuration
 - version of Angular DevKit used
-- `angular.json` configuration
 - 3rd-party libraries and their versions
 - and most importantly - a use-case that fails
 
@@ -239,8 +240,8 @@ changes to be accepted, the CLA must be signed. It's a quick process, we promise
 [coc]: https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md
 [commit-message-format]: https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
 [corporate-cla]: http://code.google.com/legal/corporate-cla-v1.0.html
-[dev-doc]: https://github.com/angular/angular-cli#development-hints-for-working-on-angular-cli
-[GitHub]: https://github.com/angular/devkit
+[dev-doc]: ttps://github.com/angular/angular-cli/blob/master/packages/angular/cli/README.md#development-hints-for-working-on-angular-cli
+[GitHub]: https://github.com/angular/angular-cli
 [gitter]: https://gitter.im/angular/angular-cli
 [individual-cla]: http://code.google.com/legal/individual-cla-v1.0.html
 [js-style-guide]: https://google.github.io/styleguide/jsguide.html

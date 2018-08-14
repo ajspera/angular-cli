@@ -19,7 +19,7 @@ This is the home of the DevKit and the Angular CLI code. You can find the Angula
 
 [![CircleCI branch](https://img.shields.io/circleci/project/github/angular/angular-cli/master.svg?label=circleci)](https://circleci.com/gh/angular/angular-cli) [![Dependency Status](https://david-dm.org/angular/angular-cli.svg)](https://david-dm.org/angular/angular-cli) [![devDependency Status](https://david-dm.org/angular/angular-cli/dev-status.svg)](https://david-dm.org/angular/angular-cli?type=dev) 
 
-[![License](https://img.shields.io/npm/l/@angular-angular-cli/core.svg)](https://github.com/angular/angular-cli/blob/master/LICENSE) 
+[![License](https://img.shields.io/npm/l/@angular/cli.svg)](https://github.com/angular/angular-cli/blob/master/LICENSE) 
 
 [![GitHub forks](https://img.shields.io/github/forks/angular/angular-cli.svg?style=social&label=Fork)](https://github.com/angular/angular-cli/fork) [![GitHub stars](https://img.shields.io/github/stars/angular/angular-cli.svg?style=social&label=Star)](https://github.com/angular/angular-cli) 
 
@@ -77,7 +77,6 @@ This is a monorepo which contains many packages:
 |---|---|---|---|
 **Angular PWA Schematics** | [`@angular/pwa`](https://npmjs.com/package/@angular/pwa) | [![latest](https://img.shields.io/npm/v/%40angular%2Fpwa/latest.svg)](https://npmjs.com/package/@angular/pwa) |  [![snapshot](https://img.shields.io/badge/snapshot--blue.svg)](https://github.com/angular/angular-pwa-builds)
 **Angular Schematics** | [`@schematics/angular`](https://npmjs.com/package/@schematics/angular) | [![latest](https://img.shields.io/npm/v/%40schematics%2Fangular/latest.svg)](https://npmjs.com/package/@schematics/angular) |  [![snapshot](https://img.shields.io/badge/snapshot--blue.svg)](https://github.com/angular/schematics-angular-builds)
-**Package JSON Update Schematics** | [`@schematics/package-update`](https://npmjs.com/package/@schematics/package-update) | [![latest](https://img.shields.io/npm/v/%40schematics%2Fpackage-update/latest.svg)](https://npmjs.com/package/@schematics/package-update) |  [![snapshot](https://img.shields.io/badge/snapshot--blue.svg)](https://github.com/angular/schematics-package-update-builds)
 **Schematics Schematics** | [`@schematics/schematics`](https://npmjs.com/package/@schematics/schematics) | [![latest](https://img.shields.io/npm/v/%40schematics%2Fschematics/latest.svg)](https://npmjs.com/package/@schematics/schematics) |  [![snapshot](https://img.shields.io/badge/snapshot--blue.svg)](https://github.com/angular/schematics-schematics-builds)
 **Package Update Schematics** | [`@schematics/update`](https://npmjs.com/package/@schematics/update) | [![latest](https://img.shields.io/npm/v/%40schematics%2Fupdate/latest.svg)](https://npmjs.com/package/@schematics/update) |  [![snapshot](https://img.shields.io/badge/snapshot--blue.svg)](https://github.com/angular/schematics-update-builds)
 
